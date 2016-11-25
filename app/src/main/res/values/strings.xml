@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Blockphone</string>
+    <string name="dialog_title">WARNING</string>
+    <string name="dialog_message">Please Input 10 digits!</string>
+    <string name="dialog_message2">Please Start With Zero!</string>
+    <string name="dialog_message3">Please Start With Zero And Input 10 digits!</string>
+    <string name="dialog_message4">Delete This Number >> </string>
+</resources>
